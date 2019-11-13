@@ -8,7 +8,10 @@
   "profile": {
     "name": "typicode"
   },
-  "register": {
-    "username": "john"
-  }
+  "register": [
+    {
+      "id": 1,
+      "username": "john"
+    }
+  ]
 }
